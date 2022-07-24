@@ -1,5 +1,7 @@
+import SlotText from "./components/View/SlotText"
+
 export default function App() {
   return(
-    <h1>HHH</h1>
+    <SlotText text={"abcde fffff"}></SlotText>
   )
 }
