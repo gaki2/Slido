@@ -1,4 +1,4 @@
-import SlotText from "./components/View/SlotText"
+import SlotText from "./components/View/Text/SlotText"
 import "./css/font.css";
 import "./css/text.css";
 
