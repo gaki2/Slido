@@ -1,5 +1,9 @@
+import SlotText from "./components/View/Text/SlotText"
+import "./css/font.css";
+import "./css/text.css";
+
 export default function App() {
   return(
-    <h1>HHH</h1>
+    <SlotText text={"Your go-to interaction app for hybrid meetings"} classList={["Nunito", "title"]}></SlotText>
   )
 }
